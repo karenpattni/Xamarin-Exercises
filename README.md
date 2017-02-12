@@ -5,7 +5,10 @@ The projects I worked on while learning Xamarin.
 <ol>
   <li><b>XAM110 - Introduction to Cross-Platform Mobile Development</b>
     <ul>
-      <li>(XAM110-ex1-start) Exercise 1 - Working with Shared Projects.</li>
+      <li>(XAM110-Exercise-1) Exercise 1 - Working with Shared Projects.</li>
+      <li>(XAM110-Exercise-2) Exercise 2 - Working with Portable Class Libraries.</li>
+    </ul>
+  </li>
     </ul>
   </li>
   
